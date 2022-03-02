@@ -12,4 +12,3 @@
 #include "rg_Circle2D.h"
 #include "rg_Const.h"
 #include "rg_Point2D.h"
-
